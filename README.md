@@ -7,13 +7,13 @@
 <blockquote align="center">“Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu: (...) Tempo para plantar e tempo para arrancar o que se plantou”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/goncalobsantos/GoBarber?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/goncalobsantos/GoBarber?color=%23FF914D">
 
   <a href="https://github.com/goncalobsantos">
-    <img alt="Made by Gonçalo Santos" src="https://img.shields.io/badge/made%20by-Gonçalo%20Santos-%2304D361">
+    <img alt="Made by Gonçalo Santos" src="https://img.shields.io/badge/made%20by-Gonçalo%20Santos-%23FF914D">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%23FF914D">
 
   <a href="https://github.com/goncalobsantos/GoBarber/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/goncalobsantos/GoBarber?style=social">
