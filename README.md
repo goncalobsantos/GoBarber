@@ -1,4 +1,4 @@
-<img alt="< GSantosDev />" src="./public/banner-gs.png" />
+<img alt="< GSantosDev />" src="./banner-gs.png" />
 
 <h3 align="center">
   Frontend da aplicação GoBarber (Bootcamp GoStack 2020)
