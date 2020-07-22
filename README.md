@@ -1,7 +1,7 @@
 <img alt="< GSantosDev />" src="./banner-gs.png" />
 
 <h3 align="center">
-  Frontend da aplicação GoBarber (Bootcamp GoStack 2020)
+  Aplicação GoBarber (Bootcamp GoStack 2020)
 </h3>
 
 <blockquote align="center">“Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu: (...) Tempo para plantar e tempo para arrancar o que se plantou”!</blockquote>
